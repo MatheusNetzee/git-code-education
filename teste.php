@@ -7,4 +7,5 @@ $teste = $teste +1 ;
 echo `ls`;
 die();
 ?>
+olá
 <=?$teste ?>
